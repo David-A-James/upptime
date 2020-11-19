@@ -5,7 +5,7 @@
     "slug": "results-public",
     "status": "up",
     "uptime": "100.00",
-    "time": 525
+    "time": 523
   },
   {
     "name": "results2 (TSOHost)",
@@ -13,7 +13,7 @@
     "slug": "results2-tso-host",
     "status": "up",
     "uptime": "100.00",
-    "time": 292
+    "time": 279
   },
   {
     "name": "results5 (Digital Ocean Centos)",
@@ -21,7 +21,7 @@
     "slug": "results5-digital-ocean-centos",
     "status": "up",
     "uptime": "100.00",
-    "time": 462
+    "time": 442
   },
   {
     "name": "results6 (Pickaweb)",
@@ -29,7 +29,7 @@
     "slug": "results6-pickaweb",
     "status": "up",
     "uptime": "100.00",
-    "time": 566
+    "time": 552
   },
   {
     "name": "results7 (Digital Ocean Debian)",
@@ -37,7 +37,7 @@
     "slug": "results7-digital-ocean-debian",
     "status": "up",
     "uptime": "100.00",
-    "time": 280
+    "time": 266
   },
   {
     "name": "btrdarallyresults (Public)",
@@ -45,7 +45,7 @@
     "slug": "btrdarallyresults-public",
     "status": "up",
     "uptime": "100.00",
-    "time": 512
+    "time": 536
   },
   {
     "name": "btrdarallyresults2 (TSOHost)",
@@ -53,15 +53,15 @@
     "slug": "btrdarallyresults2-tso-host",
     "status": "up",
     "uptime": "100.00",
-    "time": 264
+    "time": 284
   },
   {
     "name": "btrdarallyresults5 (Digital Ocean Centos)",
-    "url": "btrdarallyhttps://results5.btrdarallyresults.co.uk",
+    "url": "https://results5.btrdarallyresults.co.uk",
     "slug": "btrdarallyresults5-digital-ocean-centos",
-    "status": "down",
-    "uptime": "8.42",
-    "time": 0
+    "status": "up",
+    "uptime": "100.00",
+    "time": 215
   },
   {
     "name": "btrdarallyresults6 (Pickaweb)",
@@ -69,7 +69,7 @@
     "slug": "btrdarallyresults6-pickaweb",
     "status": "up",
     "uptime": "100.00",
-    "time": 377
+    "time": 386
   },
   {
     "name": "btrdarallyresults7 (Digital Ocean Debian)",
@@ -77,6 +77,6 @@
     "slug": "btrdarallyresults7-digital-ocean-debian",
     "status": "up",
     "uptime": "100.00",
-    "time": 278
+    "time": 260
   }
 ]
