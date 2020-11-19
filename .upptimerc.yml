@@ -12,7 +12,6 @@ sites:
     url: https://results6.djames.org.uk
   - name: results7 (Digital Ocean Debian)
     url: https://results7.djames.org.uk
-    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
