@@ -1,82 +1,106 @@
 [
   {
     "name": "results (Public)",
-    "url": "http://results.djames.org.uk",
+    "url": "http://results.djames.org.uk/",
     "slug": "results-public",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 523
-  },
-  {
-    "name": "results2 (TSOHost)",
-    "url": "http://results2.djames.org.uk",
-    "slug": "results2-tso-host",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 279
-  },
-  {
-    "name": "results5 (Digital Ocean Centos)",
-    "url": "https://results5.djames.org.uk",
-    "slug": "results5-digital-ocean-centos",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 442
-  },
-  {
-    "name": "results6 (Pickaweb)",
-    "url": "https://results6.djames.org.uk",
-    "slug": "results6-pickaweb",
     "status": "up",
     "uptime": "100.00",
     "time": 552
   },
   {
+    "name": "results2 (TSOHost)",
+    "url": "http://results2.djames.org.uk/",
+    "slug": "results2-tso-host",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 285
+  },
+  {
+    "name": "results5 (Digital Ocean Centos)",
+    "url": "https://results5.djames.org.uk/",
+    "slug": "results5-digital-ocean-centos",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 460
+  },
+  {
+    "name": "results6 (Pickaweb)",
+    "url": "https://results6.djames.org.uk/",
+    "slug": "results6-pickaweb",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 558
+  },
+  {
     "name": "results7 (Digital Ocean Debian)",
-    "url": "https://results7.djames.org.uk",
+    "url": "https://results7.djames.org.uk/",
     "slug": "results7-digital-ocean-debian",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 266
-  },
-  {
-    "name": "btrdarallyresults (Public)",
-    "url": "http://results.btrdarallyresults.co.uk",
-    "slug": "btrdarallyresults-public",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 536
-  },
-  {
-    "name": "btrdarallyresults2 (TSOHost)",
-    "url": "http://results2.btrdarallyresults.co.uk",
-    "slug": "btrdarallyresults2-tso-host",
     "status": "up",
     "uptime": "100.00",
     "time": 284
   },
   {
+    "name": "btrdarallyresults (Public)",
+    "url": "http://results.btrdarallyresults.co.uk/",
+    "slug": "btrdarallyresults-public",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 562
+  },
+  {
+    "name": "btrdarallyresults2 (TSOHost)",
+    "url": "http://results2.btrdarallyresults.co.uk/",
+    "slug": "btrdarallyresults2-tso-host",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 288
+  },
+  {
     "name": "btrdarallyresults5 (Digital Ocean Centos)",
-    "url": "https://results5.btrdarallyresults.co.uk",
+    "url": "https://results5.btrdarallyresults.co.uk/",
     "slug": "btrdarallyresults5-digital-ocean-centos",
     "status": "up",
     "uptime": "100.00",
-    "time": 215
+    "time": 307
   },
   {
     "name": "btrdarallyresults6 (Pickaweb)",
-    "url": "https://results6.btrdarallyresults.co.uk",
+    "url": "https://results6.btrdarallyresults.co.uk/",
     "slug": "btrdarallyresults6-pickaweb",
     "status": "up",
     "uptime": "100.00",
-    "time": 386
+    "time": 414
   },
   {
     "name": "btrdarallyresults7 (Digital Ocean Debian)",
-    "url": "https://results7.btrdarallyresults.co.uk",
+    "url": "https://results7.btrdarallyresults.co.uk/",
     "slug": "btrdarallyresults7-digital-ocean-debian",
     "status": "up",
     "uptime": "100.00",
-    "time": 260
+    "time": 288
+  },
+  {
+    "name": "EMAMC (TSOHost)",
+    "url": "https://emamc.org.uk/",
+    "slug": "emamc-tso-host",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 773
+  },
+  {
+    "name": "BTRDAmembership (TSOHost)",
+    "url": "https://btrdamembership.com/",
+    "slug": "btrd-amembership-tso-host",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1320
+  },
+  {
+    "name": "Bridlington (Home)",
+    "url": "http://home.djames.org.uk/",
+    "slug": "bridlington-home",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 339
   }
 ]
