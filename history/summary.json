@@ -1,42 +1,34 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "results2 (TSOHost)",
+    "url": "http://results2.djames.org.uk",
+    "slug": "results2-tso-host",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
+    "time": 330
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "results5 (Digital Ocean Centos)",
+    "url": "https://results5.djames.org.uk",
+    "slug": "results5-digital-ocean-centos",
     "status": "up",
     "uptime": "100.00",
-    "time": 135
+    "time": 519
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "results6 (Pickaweb)",
+    "url": "https://results6.djames.org.uk",
+    "slug": "results6-pickaweb",
     "status": "up",
     "uptime": "100.00",
-    "time": 339
+    "time": 527
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "99.96",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "results7 (Digital Ocean Debian)",
+    "url": "https://results7.djames.org.uk",
+    "slug": "results7-digital-ocean-debian",
     "status": "up",
     "uptime": "100.00",
-    "time": 49
+    "time": 315
   }
 ]
