@@ -1,7 +1,7 @@
-- url: http://results2.djames.org.uk
+- url: http://results2.djames.org.uk/
 - status: up
 - code: 200
-- responseTime: 255
-- lastUpdated: 2020-11-19T14:43:11.595Z
+- responseTime: 302
+- lastUpdated: 2020-11-19T21:54:05.138Z
 - startTime: 2020-11-19T14:31:04.109Z
 - generator: Upptime <https://github.com/upptime/upptime>
