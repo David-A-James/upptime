@@ -5,25 +5,31 @@ repo: upptime # Your Github repository name
 # Add your sites here
 sites:
   - name: results (Public)
-    url: http://results.djames.org.uk
+    url: http://results.djames.org.uk/
   - name: results2 (TSOHost)
-    url: http://results2.djames.org.uk
+    url: http://results2.djames.org.uk/
   - name: results5 (Digital Ocean Centos)
-    url: https://results5.djames.org.uk
+    url: https://results5.djames.org.uk/
   - name: results6 (Pickaweb)
-    url: https://results6.djames.org.uk
+    url: https://results6.djames.org.uk/
   - name: results7 (Digital Ocean Debian)
-    url: https://results7.djames.org.uk
+    url: https://results7.djames.org.uk/
   - name: btrdarallyresults (Public)
-    url: http://results.btrdarallyresults.co.uk
+    url: http://results.btrdarallyresults.co.uk/
   - name: btrdarallyresults2 (TSOHost)
-    url: http://results2.btrdarallyresults.co.uk
+    url: http://results2.btrdarallyresults.co.uk/
   - name: btrdarallyresults5 (Digital Ocean Centos)
-    url: https://results5.btrdarallyresults.co.uk
+    url: https://results5.btrdarallyresults.co.uk/
   - name: btrdarallyresults6 (Pickaweb)
-    url: https://results6.btrdarallyresults.co.uk
+    url: https://results6.btrdarallyresults.co.uk/
   - name: btrdarallyresults7 (Digital Ocean Debian)
-    url: https://results7.btrdarallyresults.co.uk
+    url: https://results7.btrdarallyresults.co.uk/
+  - name: EMAMC (TSOHost)
+    url: https://emamc.org.uk/
+  - name: BTRDAmembership (TSOHost)
+    url: https://btrdamembership.com/
+  - name: Bridlington (Home)
+    url: http://home.djames.org.uk/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
