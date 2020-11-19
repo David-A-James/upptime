@@ -4,6 +4,8 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: results (Public)
+    url: http://results.djames.org.uk
   - name: results2 (TSOHost)
     url: http://results2.djames.org.uk
   - name: results5 (Digital Ocean Centos)
@@ -12,6 +14,16 @@ sites:
     url: https://results6.djames.org.uk
   - name: results7 (Digital Ocean Debian)
     url: https://results7.djames.org.uk
+  - name: btrdarallyresults (Public)
+    url: http://results.btrdarallyresults.co.uk
+  - name: btrdarallyresults2 (TSOHost)
+    url: http://results2.btrdarallyresults.co.uk
+  - name: btrdarallyresults5 (Digital Ocean Centos)
+    url: btrdarallyhttps://results5.btrdarallyresults.co.uk
+  - name: btrdarallyresults6 (Pickaweb)
+    url: https://results6.btrdarallyresults.co.uk
+  - name: btrdarallyresults7 (Digital Ocean Debian)
+    url: https://results7.btrdarallyresults.co.uk
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
