@@ -19,7 +19,7 @@ sites:
   - name: btrdarallyresults2 (TSOHost)
     url: http://results2.btrdarallyresults.co.uk
   - name: btrdarallyresults5 (Digital Ocean Centos)
-    url: btrdarallyhttps://results5.btrdarallyresults.co.uk
+    url: https://results5.btrdarallyresults.co.uk
   - name: btrdarallyresults6 (Pickaweb)
     url: https://results6.btrdarallyresults.co.uk
   - name: btrdarallyresults7 (Digital Ocean Debian)
