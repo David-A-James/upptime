@@ -53,7 +53,5 @@ user-agent: David-A-James
 assignees:
   - David-A-James
 
-#notifications:
-#  - type: email
-#
-
+notifications:
+  - type: email
