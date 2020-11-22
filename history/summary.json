@@ -5,7 +5,7 @@
     "slug": "results-public",
     "status": "up",
     "uptime": "100.00",
-    "time": 535
+    "time": 555
   },
   {
     "name": "results2 (TSOHost)",
@@ -13,7 +13,7 @@
     "slug": "results2-tso-host",
     "status": "up",
     "uptime": "100.00",
-    "time": 278
+    "time": 282
   },
   {
     "name": "results5 (Digital Ocean Centos)",
@@ -21,7 +21,7 @@
     "slug": "results5-digital-ocean-centos",
     "status": "up",
     "uptime": "100.00",
-    "time": 453
+    "time": 466
   },
   {
     "name": "results6 (Pickaweb)",
@@ -29,7 +29,7 @@
     "slug": "results6-pickaweb",
     "status": "up",
     "uptime": "100.00",
-    "time": 585
+    "time": 607
   },
   {
     "name": "results7 (Digital Ocean Debian)",
@@ -37,7 +37,7 @@
     "slug": "results7-digital-ocean-debian",
     "status": "up",
     "uptime": "100.00",
-    "time": 270
+    "time": 280
   },
   {
     "name": "btrdarallyresults (Public)",
@@ -45,7 +45,7 @@
     "slug": "btrdarallyresults-public",
     "status": "up",
     "uptime": "100.00",
-    "time": 545
+    "time": 564
   },
   {
     "name": "btrdarallyresults2 (TSOHost)",
@@ -53,7 +53,7 @@
     "slug": "btrdarallyresults2-tso-host",
     "status": "up",
     "uptime": "100.00",
-    "time": 263
+    "time": 269
   },
   {
     "name": "btrdarallyresults5 (Digital Ocean Centos)",
@@ -61,7 +61,7 @@
     "slug": "btrdarallyresults5-digital-ocean-centos",
     "status": "up",
     "uptime": "100.00",
-    "time": 382
+    "time": 432
   },
   {
     "name": "btrdarallyresults6 (Pickaweb)",
@@ -69,7 +69,7 @@
     "slug": "btrdarallyresults6-pickaweb",
     "status": "up",
     "uptime": "100.00",
-    "time": 415
+    "time": 450
   },
   {
     "name": "btrdarallyresults7 (Digital Ocean Debian)",
@@ -77,7 +77,7 @@
     "slug": "btrdarallyresults7-digital-ocean-debian",
     "status": "up",
     "uptime": "100.00",
-    "time": 271
+    "time": 283
   },
   {
     "name": "EMAMC (TSOHost)",
@@ -85,7 +85,7 @@
     "slug": "emamc-tso-host",
     "status": "up",
     "uptime": "100.00",
-    "time": 682
+    "time": 699
   },
   {
     "name": "BTRDAmembership (TSOHost)",
@@ -93,7 +93,7 @@
     "slug": "btrd-amembership-tso-host",
     "status": "up",
     "uptime": "100.00",
-    "time": 1211
+    "time": 1248
   },
   {
     "name": "Bridlington (Home)",
@@ -101,6 +101,6 @@
     "slug": "bridlington-home",
     "status": "up",
     "uptime": "100.00",
-    "time": 299
+    "time": 309
   }
 ]
