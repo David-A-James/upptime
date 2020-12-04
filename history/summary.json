@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 580,
-    "timeWeek": 571,
-    "timeMonth": 508,
-    "timeYear": 508
+    "time": 511,
+    "timeDay": 571,
+    "timeWeek": 575,
+    "timeMonth": 511,
+    "timeYear": 511
   },
   {
     "name": "results2 (TSOHost)",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 261,
-    "timeWeek": 298,
-    "timeMonth": 288,
-    "timeYear": 288
+    "time": 289,
+    "timeDay": 313,
+    "timeWeek": 296,
+    "timeMonth": 289,
+    "timeYear": 289
   },
   {
     "name": "results5 (Digital Ocean Centos)",
@@ -42,8 +42,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 459,
-    "timeDay": 557,
-    "timeWeek": 473,
+    "timeDay": 452,
+    "timeWeek": 455,
     "timeMonth": 459,
     "timeYear": 459
   },
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 506,
-    "timeDay": 358,
-    "timeWeek": 436,
-    "timeMonth": 506,
-    "timeYear": 506
+    "time": 495,
+    "timeDay": 256,
+    "timeWeek": 404,
+    "timeMonth": 495,
+    "timeYear": 495
   },
   {
     "name": "results7 (Digital Ocean Debian)",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 442,
-    "timeWeek": 387,
-    "timeMonth": 349,
-    "timeYear": 349
+    "time": 358,
+    "timeDay": 556,
+    "timeWeek": 409,
+    "timeMonth": 358,
+    "timeYear": 358
   },
   {
     "name": "btrdarallyresults (Public)",
@@ -90,8 +90,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 462,
-    "timeDay": 420,
-    "timeWeek": 468,
+    "timeDay": 463,
+    "timeWeek": 493,
     "timeMonth": 462,
     "timeYear": 462
   },
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 240,
-    "timeWeek": 277,
-    "timeMonth": 273,
-    "timeYear": 273
+    "time": 272,
+    "timeDay": 249,
+    "timeWeek": 267,
+    "timeMonth": 272,
+    "timeYear": 272
   },
   {
     "name": "btrdarallyresults5 (Digital Ocean Centos)",
@@ -121,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 526,
-    "timeWeek": 472,
-    "timeMonth": 461,
-    "timeYear": 461
+    "time": 462,
+    "timeDay": 473,
+    "timeWeek": 475,
+    "timeMonth": 462,
+    "timeYear": 462
   },
   {
     "name": "btrdarallyresults6 (Pickaweb)",
@@ -137,11 +137,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 357,
-    "timeWeek": 393,
-    "timeMonth": 383,
-    "timeYear": 383
+    "time": 377,
+    "timeDay": 257,
+    "timeWeek": 357,
+    "timeMonth": 377,
+    "timeYear": 377
   },
   {
     "name": "btrdarallyresults7 (Digital Ocean Debian)",
@@ -153,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 356,
-    "timeWeek": 345,
-    "timeMonth": 330,
-    "timeYear": 330
+    "time": 337,
+    "timeDay": 475,
+    "timeWeek": 359,
+    "timeMonth": 337,
+    "timeYear": 337
   },
   {
     "name": "EMAMC (TSOHost)",
@@ -169,11 +169,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 682,
-    "timeDay": 698,
-    "timeWeek": 726,
-    "timeMonth": 682,
-    "timeYear": 682
+    "time": 678,
+    "timeDay": 609,
+    "timeWeek": 685,
+    "timeMonth": 678,
+    "timeYear": 678
   },
   {
     "name": "BTRDAmembership (TSOHost)",
@@ -185,11 +185,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1165,
-    "timeDay": 1215,
-    "timeWeek": 1152,
-    "timeMonth": 1165,
-    "timeYear": 1165
+    "time": 1159,
+    "timeDay": 1047,
+    "timeWeek": 1120,
+    "timeMonth": 1159,
+    "timeYear": 1159
   },
   {
     "name": "Bridlington (Home)",
@@ -201,10 +201,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 301,
-    "timeWeek": 380,
-    "timeMonth": 353,
-    "timeYear": 353
+    "time": 350,
+    "timeDay": 293,
+    "timeWeek": 347,
+    "timeMonth": 350,
+    "timeYear": 350
   }
 ]
