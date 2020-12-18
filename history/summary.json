@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/results.djames.org.uk",
     "slug": "results-public",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "97.82%",
     "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 495,
     "timeDay": 467,
     "timeWeek": 488,
@@ -222,9 +222,9 @@
     "url": "http://home.djames.org.uk/",
     "icon": "https://favicons.githubusercontent.com/home.djames.org.uk",
     "slug": "bridlington-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -233,6 +233,8 @@
     "timeWeek": 285,
     "timeMonth": 322,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-18": 0
+    }
   }
 ]
