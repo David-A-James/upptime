@@ -215,19 +215,19 @@
     "url": "https://emamc.org.uk/",
     "icon": "https://favicons.githubusercontent.com/emamc.org.uk",
     "slug": "emamc-tso-host",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 668,
-    "timeDay": 681,
+    "timeDay": 688,
     "timeWeek": 695,
-    "timeMonth": 752,
+    "timeMonth": 750,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2021-05-07": 0
+      "2021-05-07": 35
     }
   },
   {
