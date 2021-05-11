@@ -237,9 +237,9 @@
     "url": "https://btrdamembership.com/",
     "icon": "https://favicons.githubusercontent.com/btrdamembership.com",
     "slug": "btrd-amembership-tso-host",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -249,6 +249,7 @@
     "timeMonth": 1103,
     "timeYear": 1111,
     "dailyMinutesDown": {
+      "2021-05-11": 0,
       "2021-01-23": 64,
       "2021-01-21": 48,
       "2020-12-24": 69
