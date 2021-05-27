@@ -13,7 +13,7 @@
     "time": 481,
     "timeDay": 557,
     "timeWeek": 483,
-    "timeMonth": 536,
+    "timeMonth": 521,
     "timeYear": 481,
     "dailyMinutesDown": {
       "2021-05-21": 29,
@@ -77,7 +77,7 @@
     "time": 450,
     "timeDay": 317,
     "timeWeek": 290,
-    "timeMonth": 447,
+    "timeMonth": 450,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2021-05-21": 29,
@@ -124,7 +124,7 @@
     "time": 417,
     "timeDay": 529,
     "timeWeek": 406,
-    "timeMonth": 433,
+    "timeMonth": 422,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2021-05-21": 29,
@@ -192,7 +192,7 @@
     "time": 403,
     "timeDay": 312,
     "timeWeek": 287,
-    "timeMonth": 349,
+    "timeMonth": 345,
     "timeYear": 403,
     "dailyMinutesDown": {
       "2021-05-21": 29,
@@ -249,10 +249,10 @@
     "url": "https://btrdamembership.com/",
     "icon": "https://favicons.githubusercontent.com/btrdamembership.com",
     "slug": "btrd-amembership-tso-host",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.37%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.36%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.86%",
     "time": 1108,
@@ -261,6 +261,7 @@
     "timeMonth": 1077,
     "timeYear": 1108,
     "dailyMinutesDown": {
+      "2021-05-27": 0,
       "2021-05-21": 25,
       "2021-05-20": 39,
       "2021-05-11": 36,
