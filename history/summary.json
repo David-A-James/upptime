@@ -283,9 +283,9 @@
     "url": "http://home.djames.org.uk/",
     "icon": "https://favicons.githubusercontent.com/home.djames.org.uk",
     "slug": "bridlington-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -295,6 +295,7 @@
     "timeMonth": 259,
     "timeYear": 383,
     "dailyMinutesDown": {
+      "2021-06-03": 0,
       "2020-12-18": 15
     }
   }
