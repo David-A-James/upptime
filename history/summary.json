@@ -43,7 +43,7 @@
     "time": 289,
     "timeDay": 455,
     "timeWeek": 378,
-    "timeMonth": 389,
+    "timeMonth": 394,
     "timeYear": 289,
     "dailyMinutesDown": {
       "2021-06-08": 24,
@@ -66,7 +66,7 @@
     "time": 473,
     "timeDay": 647,
     "timeWeek": 583,
-    "timeMonth": 510,
+    "timeMonth": 513,
     "timeYear": 473,
     "dailyMinutesDown": {}
   },
@@ -126,7 +126,7 @@
     "time": 354,
     "timeDay": 457,
     "timeWeek": 380,
-    "timeMonth": 368,
+    "timeMonth": 372,
     "timeYear": 354,
     "dailyMinutesDown": {}
   },
@@ -144,7 +144,7 @@
     "time": 415,
     "timeDay": 454,
     "timeWeek": 427,
-    "timeMonth": 406,
+    "timeMonth": 404,
     "timeYear": 415,
     "dailyMinutesDown": {
       "2021-07-05": 28,
@@ -202,7 +202,7 @@
     "time": 449,
     "timeDay": 518,
     "timeWeek": 483,
-    "timeMonth": 484,
+    "timeMonth": 483,
     "timeYear": 449,
     "dailyMinutesDown": {}
   },
@@ -220,7 +220,7 @@
     "time": 404,
     "timeDay": 673,
     "timeWeek": 437,
-    "timeMonth": 402,
+    "timeMonth": 404,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2021-07-05": 28,
@@ -261,7 +261,7 @@
     "time": 339,
     "timeDay": 475,
     "timeWeek": 391,
-    "timeMonth": 354,
+    "timeMonth": 355,
     "timeYear": 339,
     "dailyMinutesDown": {}
   },
@@ -279,7 +279,7 @@
     "time": 682,
     "timeDay": 1032,
     "timeWeek": 739,
-    "timeMonth": 729,
+    "timeMonth": 736,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2021-07-01": 19,
@@ -293,17 +293,17 @@
     "slug": "btrd-amembership-tso-host",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "97.38%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "97.39%",
     "uptimeYear": "99.38%",
     "time": 1668,
     "timeDay": 2696,
     "timeWeek": 4235,
-    "timeMonth": 3201,
+    "timeMonth": 3230,
     "timeYear": 1668,
     "dailyMinutesDown": {
-      "2021-07-06": 22,
+      "2021-07-06": 16,
       "2021-07-05": 56,
       "2021-07-03": 38,
       "2021-07-02": 20,
@@ -348,7 +348,7 @@
     "time": 363,
     "timeDay": 276,
     "timeWeek": 265,
-    "timeMonth": 251,
+    "timeMonth": 253,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2021-06-03": 88,
